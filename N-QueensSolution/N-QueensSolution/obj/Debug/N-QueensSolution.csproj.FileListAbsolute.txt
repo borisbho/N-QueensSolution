@@ -1,0 +1,6 @@
+D:\Neumont\WORKSPACEHUB\WPFExample\N-QueensSolution\N-QueensSolution\bin\Debug\N-QueensSolution.exe.config
+D:\Neumont\WORKSPACEHUB\WPFExample\N-QueensSolution\N-QueensSolution\bin\Debug\N-QueensSolution.exe
+D:\Neumont\WORKSPACEHUB\WPFExample\N-QueensSolution\N-QueensSolution\bin\Debug\N-QueensSolution.pdb
+D:\Neumont\WORKSPACEHUB\WPFExample\N-QueensSolution\N-QueensSolution\obj\Debug\N-QueensSolution.csprojResolveAssemblyReference.cache
+D:\Neumont\WORKSPACEHUB\WPFExample\N-QueensSolution\N-QueensSolution\obj\Debug\N-QueensSolution.exe
+D:\Neumont\WORKSPACEHUB\WPFExample\N-QueensSolution\N-QueensSolution\obj\Debug\N-QueensSolution.pdb
